@@ -513,6 +513,7 @@ footer {
     .hamburger {
         display: block;
         margin-left: auto;
+        z-index: 100;
     }
     
     nav ul {
