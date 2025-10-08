@@ -189,7 +189,9 @@ nav ul li a:hover:after {
     height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    background: url(../img/Tulupov_Free.jpg);
+    background-size: cover;
+    /* background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); */
     position: relative;
     overflow: hidden;
 }
