@@ -246,7 +246,7 @@ body.scrolled header {
 
 .hero-image {
     position: absolute;
-    right: 0;
+    right: 2%;
     top: 50%;
     transform: translateY(-50%);
     width: 45%;
